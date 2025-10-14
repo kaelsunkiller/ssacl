@@ -88,8 +88,8 @@ If you find this work useful, please cite:
 ```bibtex
 @inproceedings{he2025ssacl,
   title={Self-Supervised Anatomical Consistency Learning for Vision-Grounded Medical Report Generation},
-  author={He, Lianghua and Zhang, Yilun and Li, Xinyu and Chen, Qian},
-  booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
+  author={Yang, Longzhen and Ni, Zhangkai and Wen, Ying and Liu, Yihang and He, Lianghua and Shen, Heng Tao},
+  booktitle={Proceedings of the 33rd ACM International Conference on Multimedia},
   year={2025}
 }
 
