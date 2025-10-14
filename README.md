@@ -86,7 +86,7 @@ We sincerely thank prior works for their valuable contributions to the community
 If you find this work useful, please cite:
 
 ```bibtex
-@inproceedings{he2025ssacl,
+@inproceedings{yang2025ssacl,
   title={Self-Supervised Anatomical Consistency Learning for Vision-Grounded Medical Report Generation},
   author={Yang, Longzhen and Ni, Zhangkai and Wen, Ying and Liu, Yihang and He, Lianghua and Shen, Heng Tao},
   booktitle={Proceedings of the 33rd ACM International Conference on Multimedia},
